@@ -1,0 +1,36 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	git create a empty git repository, you need it in case you want to start things from scrath
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	its where you prepare the files and make the arranges to finally commit it.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	the commit doesnt need to be too long to make it hard to search for a specific
+	bug, and not to short,because it could create a lot of commits that didnt really
+	need to exist.
+
+	And also make a comment of the specific characteristic-changes that you added in 
+	that commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	In a case where a bug has just appeared after adding some modification,
+	you could use an old branch, to see the different between the new one, and the
+	old one and see what causes the bug to appear.
+
+How do the diagrams help you visualize the branch structure?
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
