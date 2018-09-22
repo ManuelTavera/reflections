@@ -29,6 +29,15 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	To keep track of the history of all the changes that has been made.
 
+How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
 
+	Easy:
+			Copying others work
+			Sending part of work made by others and myself
 
+	Hard:
+			Look for the differences in a fiel
+			Merging changes together to create one archive
+			with the newer version
 
