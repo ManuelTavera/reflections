@@ -1,4 +1,4 @@
-when would you want to create a remote repository rather than keeping all your work local?
+When would you want to create a remote repository rather than keeping all your work local?
 
 	When you are adding a new feature and you want to test it before commit it in the master
 	branch
@@ -8,6 +8,23 @@ automatically stay up-to-date with your remote repository?
 
 	Because sometimes there wont be a need to pull, because the remote
 	and master will be up to date.
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+	Forks:
+			You make a clone of repository but only on github servers, not local
+	Clones:
+			You take a repository and "Download" it to your computer, but github does not create
+			a repository of the clone in github servers
+	Branches:
+			They are like routes that a repository can take when adding new features or 
+			changing some buggy behaviours on a code.
+
+	I would use fork when i want to create a new repository of my own, from someones repository.
+	i would use clone when cloning a repository of mine, to testet it locally.
+ 
+
 
 
 
