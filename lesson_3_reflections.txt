@@ -25,6 +25,10 @@ When would you use one instead of another?
 	i would use clone when cloning a repository of mine, to testet it locally.
  
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	To keep track of the history of all the changes that has been made.
+
 
 
 
