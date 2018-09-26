@@ -52,3 +52,16 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     make a repository
+
+
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+	I would do it if a want to try out a new feature that i want to add to the source
+	or when fixing a bug in the code.
+	
+
+
+
+
+
